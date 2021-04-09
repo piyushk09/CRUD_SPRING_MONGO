@@ -1,0 +1,9 @@
+com\practice\springJPAMongo\constants\UrlConstants.class
+com\practice\springJPAMongo\controller\StudentController.class
+com\practice\springJPAMongo\SpringJpa1Application.class
+com\practice\springJPAMongo\service\StudentService.class
+com\practice\springJPAMongo\configuration\MongoConfiguration.class
+com\practice\springJPAMongo\mapper\StudentMapperImpl.class
+com\practice\springJPAMongo\repository\StudentRepository.class
+com\practice\springJPAMongo\entity\Student.class
+com\practice\springJPAMongo\mapper\StudentMapper.class

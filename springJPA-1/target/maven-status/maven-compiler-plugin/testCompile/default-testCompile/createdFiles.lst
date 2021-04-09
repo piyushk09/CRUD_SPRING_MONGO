@@ -1,0 +1,4 @@
+com\practice\springJPAMongo\configuration\Documentation.class
+com\practice\springJPAMongo\service\StudentServiceTest.class
+com\practice\springJPAMongo\SpringJpa1ApplicationTests.class
+com\practice\springJPAMongo\controller\StudentControllerTest.class
